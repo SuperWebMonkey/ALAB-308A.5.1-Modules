@@ -1,7 +1,8 @@
 /**
  *
- * Caclulationg functions
+ * Module for the Caclulationg functions
  * Uses some code from ALAB-308.3.1-Practical-Loops
+ *
  */
 
 // sum all items in ary

@@ -1,6 +1,7 @@
 /**
  *
  * ALAB - 308.5.1 Reusable Functions
+ * Main script that uses the module
  *
  */
 
@@ -10,6 +11,7 @@
  *
  */
 
+// importing all the functions from the files
 import * as StrManip from "./str_manip.js";
 import * as Calc from "./calc.js";
 
